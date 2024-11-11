@@ -1,1 +1,1 @@
-# Brain_Tissue_Segmentation_using_Atlas_and_GMM
+# Atlas and Tissue-Model Guided Gaussian Mixture Models for Brain Tissue Segmentation
