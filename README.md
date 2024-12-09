@@ -1,5 +1,4 @@
 # Atlas and Tissue-Model Guided Gaussian Mixture Models for Brain Tissue Segmentation
-# Atlas and Tissue-Model Guided Gaussian Mixture Models for Brain Tissue Segmentation
 
 This project implements a comprehensive brain tissue segmentation pipeline for **Magnetic Resonance Imaging (MRI)**. The approach combines **Gaussian Mixture Models (GMM)** with **Atlas-based** and **Tissue Probability Models** to segment brain tissues into **Grey Matter (GM)**, **White Matter (WM)**, and **Cerebrospinal Fluid (CSF)**. The pipeline integrates both spatial and intensity information for enhanced segmentation accuracy, evaluated using Dice similarity scores and Balanced Accuracy metrics.
 
