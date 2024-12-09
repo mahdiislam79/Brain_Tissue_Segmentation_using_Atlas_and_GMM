@@ -37,7 +37,7 @@ The dataset comprises 20 T1-weighted MRI scans and corresponding ground truth se
 ### Example Dataset
 | **T1-Weighted MRI Scan** | **Ground Truth Segmentation Mask** |
 |---------------------------|------------------------------------|
-| ![T1 Scan](Images/T1.png) | ![Ground Truth](Images/GroundTruth.png) |
+| ![T1 Scan](Images/Dataset.jpg) | ![Ground Truth](Images/Dataset-GT.jpg) |
 
 ---
 
