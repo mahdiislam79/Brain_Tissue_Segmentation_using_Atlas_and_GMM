@@ -64,7 +64,7 @@ The dataset comprises 20 T1-weighted MRI scans and corresponding ground truth se
 | TM+LP                      | 0.839    | 0.878   | 0.927   | 0.806        |
 | EM                         | 0.193    | 0.829   | 0.557   | 0.526        |
 
-![Dice Scores Comparison](Images/DiceComparison.png)
+![Dice Scores Comparison](Result/Mean_dice_TABLE.png)
 
 ---
 
