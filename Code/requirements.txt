@@ -1,0 +1,30 @@
+# Core Libraries
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# Medical Imaging Libraries
+nibabel
+SimpleITK
+pydicom
+itk-elastix
+
+# Machine Learning and Deep Learning
+scikit-learn
+
+# Image Processing
+opencv-python
+Pillow
+matplotlib
+
+# Visualization Tools
+seaborn
+plotly
+
+# Additional Libraries for Medical Imaging
+itk
+
+# Jupyter Notebook Support
+jupyterlab
