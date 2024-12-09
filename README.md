@@ -79,8 +79,4 @@ The dataset comprises 20 T1-weighted MRI scans and corresponding ground truth se
 ![Qualitative Comparison](Result/qualitative_comparison_em_kmeans_tm_lp_a.png)
 ---
 
-## Installation
 
-Install the required dependencies with:
-```bash
-pip install -r requirements.txt
