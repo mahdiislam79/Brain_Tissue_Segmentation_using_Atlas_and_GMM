@@ -76,7 +76,7 @@ The dataset comprises 20 T1-weighted MRI scans and corresponding ground truth se
 
 - **Qualitative Observations**:
   - Combined methods like EM+KMeans+LP+TM yielded smooth and anatomically consistent segmentations.
-
+![Qualitative Comparison](Result/Mean_dice_TABLE.png)
 ---
 
 ## Installation
